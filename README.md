@@ -1,0 +1,2 @@
+# gmgard_checkin
+用于hoshinobot的gmgard签到插件
