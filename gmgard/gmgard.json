@@ -1,0 +1,13 @@
+{
+    "URL_GMGARD":"https://gmgard.com",
+    "USER":{
+        "USER1":{
+            "name":".AspNetCore.Identity.Application",
+            "value":"**************"
+        },
+        "USER2":{
+            "name":".AspNetCore.Identity.Application",
+            "value":"**************"
+        }
+    }
+}
