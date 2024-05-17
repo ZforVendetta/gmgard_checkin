@@ -1,6 +1,8 @@
 # gmgard_checkin
 用于hoshinobot的gmgard签到插件
 
+该项目欠缺维护已无法正常运作
+
 使用前请修改gmgard.json文件:
   URL_GMGARD = 'https://gmgard.com' #这项不出意外不需要修改
   USER中保存了cookies，请自行登陆后打开 https://gmgard.com 获取cookie中".AspNetCore.Identity.Application"的值进行手动录入，支持多个账号，文件中已经写入了例子请自行修改，登录单账号的话把USER2删除掉即可。
